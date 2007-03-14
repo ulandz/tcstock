@@ -1,8 +1,0 @@
-#labels Phase-Design
-可参考的另一款股票软件
-
-
-在这里看到另一款股票软件，使用wxWidget开发，似乎具有从网上获取数据的能力，可以借鉴．
-http://code.google.com/p/wesleystock/
-
-
